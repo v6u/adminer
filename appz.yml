@@ -17,7 +17,7 @@ deploy:
     - 8080
   
 properties:
-    revision : 33
+    revision : 34
     MFA_PROVIDER : NONE
     AUTHSECRET: 
         vault : ADMINER_AUTHSECRET
